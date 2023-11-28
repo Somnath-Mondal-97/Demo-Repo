@@ -1,3 +1,3 @@
 # Demo
 
-Hi, I am SOMNATH MONDAL
+Hi, I am Somnath Mondal
